@@ -1,0 +1,5 @@
+body {
+    @include outer-container;
+    max-width: 40em;
+    vertical-align: baseline;
+}
