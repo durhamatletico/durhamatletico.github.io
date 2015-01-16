@@ -722,6 +722,28 @@ ul {
  */
 .home {
   padding-top: 3%; }
+  .home section {
+    max-width: 68em;
+    margin-left: auto;
+    margin-right: auto; }
+    .home section::after {
+      clear: both;
+      content: "";
+      display: table; }
+    .home section latest {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 57.35098%; }
+      .home section latest:last-child {
+        margin-right: 0; }
+    .home section events {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 40.29137%; }
+      .home section events:last-child {
+        margin-right: 0; }
 
 .hero {
   background: url("/assets/img/soccer.png"), -webkit-linear-gradient(10deg, #20392B, #7F99BE), no-repeat #7F99BE scroll;

@@ -179,7 +179,13 @@ ul {
  */
 .home {
     padding-top: 3%;
+    section {
+        @include outer-container;
+        latest { @include span-columns(7); }
+        events { @include span-columns(5); }
+    }
 }
+
 .hero {  
   ///////////////////////////////////////////////////////////////////////////////////
   $base-border-radius: 3px !default;

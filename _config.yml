@@ -3,7 +3,7 @@ email: info@durhamatletico.com
 description: >
   Launched in January 2015, Durham Atlético is a soccer organization dedicated to broadening access to the beautiful game throughout Durham, with a particular focus on the urban core. 
 baseurl: ""
-url: "http://durhamatletico.com" # the base hostname & protocol for your site
+url: ""
 twitter_username: durhamatletico
 markdown: kramdown
 sass:
