@@ -15,6 +15,8 @@
  * ---------------------------------------------------------------------------*/
 @import "layout";
 
+@import "typography";
+
 /**
  * Globals
  */
@@ -47,7 +49,7 @@ ul {
         float: left;
     }
     .two {
-       background: #ffd046; 
+       background: #ffd046;
     }
 }
 
@@ -57,10 +59,10 @@ ul {
 .footer-2 {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-spacing: 1.5em !default;
-  $base-accent-color: #477DCA !default;
+  $base-accent-color: #00548f !default;
   $medium-screen: em(640) !default;
   $large-screen: em(860) !default;
-  
+
   ul {
     margin: 0;
     padding: 0;
@@ -98,11 +100,11 @@ ul {
 
   .footer-logo img {
     height: 1.6em;
-  } 
+  }
 
   ul {
     margin-bottom: 1em;
-    
+
     @include media($large-screen) {
       float: left;
       line-height: 1.8em;
@@ -186,14 +188,14 @@ ul {
     }
 }
 
-.hero {  
+.hero {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-border-radius: 3px !default;
   $base-accent-color: #477DCA !default;
   $large-screen: em(860) !default;
   //////////////////////////////////////////////////////////////////////////////////
 
-  $hero-background-top: #7F99BE; 
+  $hero-background-top: #7F99BE;
   $hero-background-bottom: #20392B;
   $hero-color: white;
   $gradient-angle: 10deg;
@@ -221,7 +223,7 @@ ul {
 
     .hero-copy {
       text-align: center;
-      
+
       h1 {
         font-size: 1.6em;
         margin-bottom: 0.5em;
@@ -234,7 +236,7 @@ ul {
       p {
         font-weight: 200;
         line-height: 1.4em;
-        margin: 0 auto 3em auto; 
+        margin: 0 auto 3em auto;
 
         @include media($large-screen) {
           font-size: 1.1em;
@@ -246,7 +248,9 @@ ul {
     button {
       @include button(flat, $base-accent-color);
       padding: 0.7em 1em;
+        a {
+            color: #FFF;
+        }
     }
   }
 }
-
