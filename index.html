@@ -15,10 +15,9 @@ layout: default
       </div>
     </div>
 
-    <hr />
-
     <section>
         <latest>
+            <h3>Latest news</h3>
             {% for post in site.posts limit:1 %}
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

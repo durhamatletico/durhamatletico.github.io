@@ -184,8 +184,7 @@ ul {
     padding-top: 3%;
     section {
         @include outer-container;
-        latest { @include span-columns(7); }
-        events { @include span-columns(5); }
+        latest { @include span-columns(12); }
     }
 }
 
@@ -238,6 +237,7 @@ ul {
         font-weight: 200;
         line-height: 1.4em;
         margin: 0 auto 3em auto;
+        color: $hero-color;
 
         @include media($large-screen) {
           font-size: 1.1em;
