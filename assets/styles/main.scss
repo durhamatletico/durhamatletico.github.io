@@ -248,7 +248,7 @@ ul {
       }
     }
 
-    button {
+    .register-button {
       @include button(flat, #00548F);
       padding: 0.7em 1em;
         a {
