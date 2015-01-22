@@ -1,0 +1,12 @@
+---
+layout: default
+title: Posts
+---
+<h1>Posts</h1>
+<ol reversed>
+  {% for post in site.posts %}
+    <li>
+      {{post.date | date_to_string}} – <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ol>

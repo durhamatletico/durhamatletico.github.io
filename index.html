@@ -4,29 +4,28 @@ layout: default
 
 <div class="home">
 
-    <div class="hero">
-      <div class="hero-inner">
-        <a href="" class="hero-logo"><img src="{{ site.baseurl }}/assets/img/soccer_512.png" alt="Soccer ball"></a>
-        <div class="hero-copy">
-          <h1>Durham Atl&eacute;tico Winter Futsal League</h1>
-          <p>Play begins early February, register by Jan. 30!</p>
-        </div>
-        <button><a href="https://docs.google.com/forms/d/1Uw2lgO41vIxjPojHrwVu1wERazluI2Imhw35ffkfMhU/viewform">Register now</a></button>
-      </div>
-    </div>
+    <section>
+        <hero class="hero">
+            <div class="hero-inner">
+              <a href="" class="hero-logo"><img src="{{ site.baseurl }}/assets/img/soccer_512.png" alt="Soccer ball"></a>
+              <div class="hero-copy">
+                <h1>Durham Atl&eacute;tico Winter Futsal League</h1>
+                <p>Play begins early February, register by Jan. 30!</p>
+              </div>
+              <button><a href="https://docs.google.com/forms/d/1Uw2lgO41vIxjPojHrwVu1wERazluI2Imhw35ffkfMhU/viewform">Register now</a></button>
+            </div>
+        </hero>
+    </section>
 
     <section>
-        <latest>
-            <h3>Latest news</h3>
+        <latest class="intro-text">
             {% for post in site.posts limit:1 %}
-                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-                <h2>
+                <h3>{{ post.date | date: "%b %-d, %Y" }}</h3>
+                <h4>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h2>
-                <p>{{ post.summary }}</p>
+                </h4>
+                <p>{{ post.summary }} <a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
             {% endfor %}
-
         </latest>
     </section>
 
