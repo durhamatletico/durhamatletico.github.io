@@ -262,7 +262,7 @@ ul {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-line-height: 1.5em !default;
   $base-spacing: 1.5em !default;
-  $base-accent-color: $durham-blue !default;
+  $base-accent-color: $durham-blue;
   $base-link-color: $base-accent-color !default;
   $dark-gray: #333 !default;
   $large-screen: em(860) !default;
