@@ -3,7 +3,7 @@ title: Registration is open!
 layout: post
 date: 2015-01-24 15:45
 author: Kosta Harlan and David Fellerath
-summary: It's our pleasure to announce that [registration for Durham Atlético's Winter Futsal League](/futsal#register) is officially open, and we invite you to join us on Tuesday nights beginning Feb. 3!
+summary: It's our pleasure to announce that registration for Durham Atlético's Winter Futsal League is officially open, and we invite you to join us on Tuesday nights beginning Feb. 3!
 ---
 It's our pleasure to announce that [registration for Durham Atlético's Winter Futsal League](/futsal#register) is officially open, and we invite you to join us on Tuesday nights beginning Feb. 3!
 
