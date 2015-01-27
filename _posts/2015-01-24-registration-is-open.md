@@ -13,4 +13,4 @@ This will be a lot of fun, and we hope you'll join us. We want to stress that we
 
 We are joined by generous and enthusiastic sponsors including Bull McCabe's, Mattie B's and Motorco. They've contributed their support because they love soccer, and of course, they'd love it if we'd come hang out with them after games.
 
-If you're interested to play, please [register now](/futsal.html#register) because space will fill up very quickly!
+If you're interested to play, please [register now](/futsal#register) because space will fill up very quickly!
