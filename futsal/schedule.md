@@ -8,30 +8,30 @@ permalink: /futsal/schedule/
 
 Date          |  Time  |  Home                |  Away                |  Result  |  Venue
 --------------|--------|----------------------|----------------------|----------|-------------------------------------------
-2/3/2015      |  6:00  |  Motorco             |  Mattie B's          | 10 - 9   |  Weaver Street
-2/3/2015      |  7:00  |  Market Failure      |  McCabe's            |  7 - 10  |
-2/3/2015      |  8:00  |  Durham All Stars    |  Freelancers United  |  7 - 15  |
-2/10/2015     |  6:00  |  McCabe's            |  Motorco             |          |  Weaver Street
-2/10/2015     |  7:00  |  Freelancers United  |  Market Failure      |          |
-2/10/2015     |  8:00  |  Mattie B's          |  Durham All Stars    |          |
-2/17/2015     |  6:00  |  Durham All Stars    |  McCabe's            |          |  Weaver Street
-2/17/2015     |  7:00  |  Motorco             |  Market Failure      |          |
-2/17/2015     |  8:00  |  Freelancers United  |  Mattie B's          |          |
-2/24/2015     |  6:00  |  McCabe's            |  Mattie B's          |          |  Weaver Street
-2/24/2015     |  7:00  |  Freelancers United  |  Motorco             |          |
-2/24/2015     |  8:00  |  Market Failure      |  Durham All-Stars    |          |
-3/3/2015      |  6:00  |  Motorco             |  Durham All-Stars    |          |  Weaver Street
-3/3/2015      |  7:00  |  Mattie B's          |  Market Failure      |          |
-3/3/2015      |  8:00  |  McCabe's            |  Freelancers United  |          |
-3/10/2015     |  6:00  |  Mattie B's          |  Motorco             |          |  Weaver Street
-3/10/2015     |  7:00  |  McCabe's            |  Market Failure      |          |
-3/10/2015     |  8:00  |  Freelancers United  |  Durham All Stars    |          |
-3/17/2015     |  6:00  |  Motorco             |  McCabe's            |          |  Weaver Street but subject to venue change
-3/17/2015     |  7:00  |  Durham All Stars    |  Mattie B's          |          |
-3/17/2015     |  8:00  |  Market Failure      |  Freelancers United  |          |
-3/24/2015     |  6:00  |  Market Failure      |  Motorco             |          |  Weaver Street but subject to venue change
-3/24/2015     |  7:00  |  Mattie B's          |  Freelancers United  |          |
-3/24/2015     |  8:00  |  McCabe's            |  Durham All-Stars    |          |
+2/3      |  6:00  |  Motorco             |  Mattie B's          | 10 - 9   |  Weaver Street
+2/3      |  7:00  |  Market Failure      |  McCabe's            |  7 - 10  |
+2/3      |  8:00  |  Durham All Stars    |  Freelancers United  |  7 - 15  |
+2/10     |  6:00  |  McCabe's            |  Motorco             |          |  Weaver Street
+2/10     |  7:00  |  Freelancers United  |  Market Failure      |          |
+2/10     |  8:00  |  Mattie B's          |  Durham All Stars    |          |
+2/17     |  6:00  |  Durham All Stars    |  McCabe's            |          |  Weaver Street
+2/17     |  7:00  |  Motorco             |  Market Failure      |          |
+2/17     |  8:00  |  Freelancers United  |  Mattie B's          |          |
+2/24     |  6:00  |  McCabe's            |  Mattie B's          |          |  Weaver Street
+2/24     |  7:00  |  Freelancers United  |  Motorco             |          |
+2/24     |  8:00  |  Market Failure      |  Durham All-Stars    |          |
+3/3      |  6:00  |  Motorco             |  Durham All-Stars    |          |  Weaver Street
+3/3      |  7:00  |  Mattie B's          |  Market Failure      |          |
+3/3      |  8:00  |  McCabe's            |  Freelancers United  |          |
+3/10     |  6:00  |  Mattie B's          |  Motorco             |          |  Weaver Street
+3/10     |  7:00  |  McCabe's            |  Market Failure      |          |
+3/10     |  8:00  |  Freelancers United  |  Durham All Stars    |          |
+3/17     |  6:00  |  Motorco             |  McCabe's            |          |  Weaver Street but subject to venue change
+3/17     |  7:00  |  Durham All Stars    |  Mattie B's          |          |
+3/17     |  8:00  |  Market Failure      |  Freelancers United  |          |
+3/24     |  6:00  |  Market Failure      |  Motorco             |          |  Weaver Street but subject to venue change
+3/24     |  7:00  |  Mattie B's          |  Freelancers United  |          |
+3/24     |  8:00  |  McCabe's            |  Durham All-Stars    |          |
 Week of 3/30  |  6:00  |  Motorco             |  Freelancers United  |          |  Date and venue TBD (Weaver is backup)
               |  7:00  |  Mattie B's          |  McCabe's            |          |
               |  8:00  |  Durham All Stars    |  Market Failure      |          |
