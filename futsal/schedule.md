@@ -6,6 +6,9 @@ permalink: /futsal/schedule/
 
 ## Schedule
 
+- [RSVP for games on 2/10](https://docs.google.com/forms/d/1DgcSE6DD5oc533_5CnWHsri3S_Gg5BWggF2JFOSiPGw/viewform)
+- [View rosters for games on 2/10](https://docs.google.com/spreadsheets/d/1dBXJ5f4XHlwjMbELjvh-2rg7a1mZHebshQruP_8936Q/edit#gid=189431757)
+
 Date          |  Time  |  Home                |  Away                |  Result  |  Venue
 --------------|--------|----------------------|----------------------|----------|-------------------------------------------
 2/3      |  6:00  |  Motorco             |  Mattie B's          | 10 - 9   |  Weaver Street
