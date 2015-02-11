@@ -48,7 +48,7 @@ Week of 4/6   |  6:00  |  Freelancers United  |  McCabe's            |          
 | ------------------ | ------ | - | - | - | -- | -- |
 | Freelancers United | 6      | 2 | 0 | 0 | 30 | 16  |
 | Motorco FC         | 6      | 2 | 0 | 0 | 14 | 11  |
-| Bull McCabe's      | 3      | 1 | 1 | 0 | 12 | 11  |
 | Mattie B's         | 3      | 1 | 1 | 0 | 25  | 23 |
+| Bull McCabe's      | 3      | 1 | 1 | 0 | 12 | 11  |
 | Market Failure     | 0      | 0 | 2 | 0 | 16  | 25 |
 | Durham All Stars   | 0      | 0 | 2 | 0 | 20  | 31 |
