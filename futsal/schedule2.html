@@ -1,0 +1,91 @@
+---
+layout: page
+title: Schedule 2
+permalink: /futsal/schedule2/
+teams:
+  - allstars: Durham All Stars
+  - mattiebs: Mattie B's
+  - mccabes
+  - marketfailure
+  - motorco
+  - freelancersunited
+---
+<!-- Loop through all teams. -->
+{% for team in page.teams %}
+{% endfor %}
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Home</th>
+      <th>Away</th>
+      <th>Result</th>
+      <th>Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for match in site.data.matches %}
+      <tr>
+        <td>{{ match.date | date: "%d/%m" }}</td>
+        <td>{{ match.date | date: "%I:%M %p" }}</td>
+        {% for team in match limit:2 offset:1 %}
+        <td>{{ team[0] }}</td>
+        {% endfor %}
+
+        <td>
+        {% for score in match limit:2 offset:1 %}
+            {{ score[1] }}
+        {% endfor %}
+        </td>
+        <td>{{ match.venue }}</td>
+      </tr>
+      {% endfor %}
+  </tbody>
+</table>
+
+<h2>Standings</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>Pts</th>
+      <th>W</th>
+      <th>L</th>
+      <th>D</th>
+      <th>GF</th>
+      <th>GA</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for team_hash in site.data.teams %}
+        {% for team in team_hash %}
+      {% assign team_name = team[0] %}
+      {% assign team_points = 0 %}
+            <tr>
+                <td>{{ team[1] }}</td>
+            <!-- Get points total -->
+            {% for matches_hash in site.data.matches %}
+                {{ matches_hash }}
+                {% for match in matches_hash offset:1 %}
+                    {% if match[0] == team_name %}
+                        {% if match[1] > match[1] %}
+                        {% endif %}
+                        <td>{{ match[1] }}</td>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        {% endfor %}
+      {% endfor %}
+    </tr>
+  </tbody>
+</table>
+
+
+<ul>
+{% for match in site.data.matches %}
+    {% assign page.allstars.gf=page.allstars.gf | plus:match.allstars %}
+  <li>
+  </li>
+{% endfor %}
+</ul>
