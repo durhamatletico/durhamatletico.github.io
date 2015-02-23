@@ -6,8 +6,8 @@ permalink: /futsal/schedule/
 
 ## Schedule
 
-- [RSVP for games on 2/17](http://goo.gl/forms/uZGaOQ7iTQ)
-- [View rosters for games on 2/17](https://docs.google.com/spreadsheets/d/1wtssMhVkU-NzG3oqKfgyLnaHfKPxerwv-AybJdX7tkA/edit?usp=sharing)
+- [RSVP for games on 2/24](https://docs.google.com/forms/d/1a8_pCTddBnzTaP0y-24WbG0_1T9rVKKo0CBi-oyMpOE/viewform)
+- [View rosters for games on 2/24](https://docs.google.com/spreadsheets/d/1QqqaQb751u6axaRlbO5FHl0SJ6pzGyUDEUiHXFy58Jk/edit#gid=1439340854)
 
 Date          |  Time  |  Home                |  Away                |  Result  |  Venue
 --------------|--------|----------------------|----------------------|----------|-------------------------------------------
@@ -17,12 +17,12 @@ Date          |  Time  |  Home                |  Away                |  Result  
 2/10     |  6:00  |  McCabe's            |  Motorco             |  2 - 4   |  Weaver Street
 2/10     |  7:00  |  Freelancers United  |  Market Failure      | 15 - 9   |
 2/10     |  8:00  |  Mattie B's          |  Durham All Stars    | 16 - 13  |
-2/17     |  6:00  |  Durham All Stars    |  McCabe's            |          |  Weaver Street
-2/17     |  7:00  |  Motorco             |  Market Failure      |          |
-2/17     |  8:00  |  Freelancers United  |  Mattie B's          |          |
-2/24     |  6:00  |  McCabe's            |  Mattie B's          |          |  Weaver Street
-2/24     |  7:00  |  Freelancers United  |  Motorco             |          |
-2/24     |  8:00  |  Market Failure      |  Durham All-Stars    |          |
+2/17     |  6:00  |  Durham All Stars    |  McCabe's            | Rescheduled |  Weaver Street
+2/17     |  7:00  |  Motorco             |  Market Failure      | Rescheduled |
+2/17     |  8:00  |  Freelancers United  |  Mattie B's          | Rescheduled |
+**2/24**     |  6:00  |  McCabe's            |  Mattie B's          |          |  Weaver Street
+**2/24**     |  7:00  |  Freelancers United  |  Motorco             |          |
+**2/24**     |  8:00  |  Market Failure      |  Durham All-Stars    |          |
 3/3      |  6:00  |  Motorco             |  Durham All-Stars    |          |  Weaver Street
 3/3      |  7:00  |  Mattie B's          |  Market Failure      |          |
 3/3      |  8:00  |  McCabe's            |  Freelancers United  |          |
