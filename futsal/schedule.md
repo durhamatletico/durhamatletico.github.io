@@ -4,25 +4,13 @@ layout: page
 permalink: /futsal/schedule/
 ---
 
-## Schedule
+- [RSVP for games on 3/3](https://docs.google.com/forms/d/1aXAhp4j8j_YwOxjELoJ_vaLUCYkpKMI2PTYDoWQc09k/viewform)
+- [View rosters for games on 3/3](https://docs.google.com/spreadsheets/d/1X_ee1bele6Wl5RUP6sq5AtldP3TuvbjrXMHYb56f-Wo/edit?usp=sharing)
 
-- [RSVP for games on 2/24](https://docs.google.com/forms/d/1a8_pCTddBnzTaP0y-24WbG0_1T9rVKKo0CBi-oyMpOE/viewform)
-- [View rosters for games on 2/24](https://docs.google.com/spreadsheets/d/1QqqaQb751u6axaRlbO5FHl0SJ6pzGyUDEUiHXFy58Jk/edit#gid=1439340854)
+## Upcoming matches
 
 Date          |  Time  |  Home                |  Away                |  Result  |  Venue
 --------------|--------|----------------------|----------------------|----------|-------------------------------------------
-2/3      |  6:00  |  Motorco             |  Mattie B's          | 10 - 9   |  Weaver Street
-2/3      |  7:00  |  Market Failure      |  McCabe's            |  7 - 10  |
-2/3      |  8:00  |  Durham All Stars    |  Freelancers United  |  7 - 15  |
-2/10     |  6:00  |  McCabe's            |  Motorco             |  2 - 4   |  Weaver Street
-2/10     |  7:00  |  Freelancers United  |  Market Failure      | 15 - 9   |
-2/10     |  8:00  |  Mattie B's          |  Durham All Stars    | 16 - 13  |
-2/17     |  6:00  |  Durham All Stars    |  McCabe's            | Rescheduled |  Weaver Street
-2/17     |  7:00  |  Motorco             |  Market Failure      | Rescheduled |
-2/17     |  8:00  |  Freelancers United  |  Mattie B's          | Rescheduled |
-**2/24**     |  6:00  |  McCabe's            |  Mattie B's          |          |  Weaver Street
-**2/24**     |  7:00  |  Freelancers United  |  Motorco             |          |
-**2/24**     |  8:00  |  Market Failure      |  Durham All-Stars    |          |
 3/3      |  6:00  |  Motorco             |  Durham All-Stars    |          |  Weaver Street
 3/3      |  7:00  |  Mattie B's          |  Market Failure      |          |
 3/3      |  8:00  |  McCabe's            |  Freelancers United  |          |
@@ -41,6 +29,23 @@ Week of 3/30  |  6:00  |  Motorco             |  Freelancers United  |          
 Week of 4/6   |  6:00  |  Freelancers United  |  McCabe's            |          |  Date and venue TBD (Weaver is backup)
               |  7:00  |  Durham All Stars    |  Motorco             |          |
               |  8:00  |  Market Failure      |  Mattie B's          |          |
+
+## Previous matches
+
+Date          |  Time  |  Home                |  Away                |  Result  |  Venue
+--------------|--------|----------------------|----------------------|----------|-------------------------------------------
+2/3      |  6:00  |  Motorco             |  Mattie B's          | 10 - 9   |  Weaver Street
+2/3      |  7:00  |  Market Failure      |  McCabe's            |  7 - 10  |
+2/3      |  8:00  |  Durham All Stars    |  Freelancers United  |  7 - 15  |
+2/10     |  6:00  |  McCabe's            |  Motorco             |  2 - 4   |  Weaver Street
+2/10     |  7:00  |  Freelancers United  |  Market Failure      | 15 - 9   |
+2/10     |  8:00  |  Mattie B's          |  Durham All Stars    | 16 - 13  |
+2/17     |  6:00  |  Durham All Stars    |  McCabe's            | Rescheduled |  Weaver Street
+2/17     |  7:00  |  Motorco             |  Market Failure      | Rescheduled |
+2/17     |  8:00  |  Freelancers United  |  Mattie B's          | Rescheduled |
+2/24     |  6:00  |  McCabe's            |  Mattie B's          | Rescheduled         |  Weaver Street
+2/24     |  7:00  |  Freelancers United  |  Motorco             | Rescheduled         |
+2/24     |  8:00  |  Market Failure      |  Durham All-Stars    | Rescheduled         |
 
 ## Standings
 
