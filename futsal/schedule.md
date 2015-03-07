@@ -4,16 +4,13 @@ layout: page
 permalink: /futsal/schedule/
 ---
 
-- [RSVP for games on 3/3](https://docs.google.com/forms/d/1aXAhp4j8j_YwOxjELoJ_vaLUCYkpKMI2PTYDoWQc09k/viewform)
-- [View rosters for games on 3/3](https://docs.google.com/spreadsheets/d/1X_ee1bele6Wl5RUP6sq5AtldP3TuvbjrXMHYb56f-Wo/edit?usp=sharing)
+- [RSVP for games on 3/10](https://docs.google.com/forms/d/1aXAhp4j8j_YwOxjELoJ_vaLUCYkpKMI2PTYDoWQc09k/viewform)
+- [View rosters for games on 3/10](https://docs.google.com/spreadsheets/d/1X_ee1bele6Wl5RUP6sq5AtldP3TuvbjrXMHYb56f-Wo/edit?usp=sharing)
 
 ## Upcoming matches
 
 Date          |  Time  |  Home                |  Away                |  Result  |  Venue
 --------------|--------|----------------------|----------------------|----------|-------------------------------------------
-3/3      |  6:00  |  Motorco             |  Durham All-Stars    |          |  Weaver Street
-3/3      |  7:00  |  Mattie B's          |  Market Failure      |          |
-3/3      |  8:00  |  McCabe's            |  Freelancers United  |          |
 3/10     |  6:00  |  Mattie B's          |  Motorco             |          |  Weaver Street
 3/10     |  7:00  |  McCabe's            |  Market Failure      |          |
 3/10     |  8:00  |  Freelancers United  |  Durham All Stars    |          |
@@ -46,14 +43,17 @@ Date          |  Time  |  Home                |  Away                |  Result  
 2/24     |  6:00  |  McCabe's            |  Mattie B's          | Rescheduled         |  Weaver Street
 2/24     |  7:00  |  Freelancers United  |  Motorco             | Rescheduled         |
 2/24     |  8:00  |  Market Failure      |  Durham All-Stars    | Rescheduled         |
+3/3      |  6:00  |  Motorco             |  Durham All-Stars    | 12 - 4   |  Weaver Street
+3/3      |  7:00  |  Mattie B's          |  Market Failure      | 12 - 4   |
+3/3      |  8:00  |  McCabe's            |  Freelancers United  | 9 - 6    |
 
 ## Standings
 
 | Team               | Points | W | L | D | GF | GA |
 | ------------------ | ------ | - | - | - | -- | -- |
-| Freelancers United | 6      | 2 | 0 | 0 | 30 | 16  |
-| Motorco FC         | 6      | 2 | 0 | 0 | 14 | 11  |
-| Mattie B's         | 3      | 1 | 1 | 0 | 25  | 23 |
-| Bull McCabe's      | 3      | 1 | 1 | 0 | 12 | 11  |
-| Durham All Stars   | 0      | 0 | 2 | 0 | 20  | 31 |
-| Market Failure     | 0      | 0 | 2 | 0 | 16  | 25 |
+| Motorco FC         | 9      | 3 | 0 | 0 | 26 | 15  |
+| Freelancers United | 6      | 2 | 1 | 0 | 36 | 25  |
+| Mattie B's         | 6      | 2 | 1 | 0 | 37  | 27 |
+| Bull McCabe's      | 6      | 2 | 1 | 0 | 21 | 17  |
+| Durham All Stars   | 0      | 0 | 3 | 0 | 24  | 43 |
+| Market Failure     | 0      | 0 | 3 | 0 | 20  | 37 |
