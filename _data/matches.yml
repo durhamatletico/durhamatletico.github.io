@@ -69,3 +69,27 @@
     home: 9
     away: 6
   venue: Weaver St Rec
+
+- date: 3/10/2015 18:00
+  home: "Mattie B's"
+  away: "Motorco FC"
+  score:
+    home: 15
+    away: 12
+  venue: Weaver St Rec
+
+- date: 3/10/2015 19:00
+  home: "Bull McCabe's"
+  away: "Market Failure"
+  score:
+    home: 12
+    away: 6
+  venue: Weaver St Rec
+
+- date: 3/10/2015 20:00
+  home: "Freelancers United"
+  away: "Durham All Stars"
+  score:
+    home: 11
+    away: 13
+  venue: Weaver St Rec
