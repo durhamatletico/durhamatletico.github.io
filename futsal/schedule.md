@@ -1,7 +1,7 @@
 ---
 title: Futsal Winter 2015 Schedule and Standings
 layout: page
-permalink: /futsal/schedule/
+permalink: /futsal/schedule-old/
 ---
 
 - [RSVP for games on 3/10](https://docs.google.com/forms/d/1aXAhp4j8j_YwOxjELoJ_vaLUCYkpKMI2PTYDoWQc09k/viewform)

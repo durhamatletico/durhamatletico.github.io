@@ -1,0 +1,159 @@
+---
+layout: page
+title: Futsal Winter 2015 Schedule and Standings
+permalink: /futsal/schedule/
+---
+<h2>Upcoming matches</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Home</th>
+      <th>Away</th>
+      <th>Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3/17</td>
+      <td>6:00</td>
+      <td>Motorco</td>
+      <td>McCabe’s</td>
+      <td><strong>Match postponed</strong></td>
+    </tr>
+    <tr>
+      <td>3/17</td>
+      <td>7:00</td>
+      <td>Durham All Stars</td>
+      <td>Mattie B’s</td>
+      <td>Weaver Street Rec</td>
+    </tr>
+    <tr>
+      <td>3/17</td>
+      <td>8:00</td>
+      <td>Market Failure</td>
+      <td>Freelancers United</td>
+      <td>Weaver Street Rec</td>
+    </tr>
+    <tr>
+      <td>3/24</td>
+      <td>6:00</td>
+      <td>Market Failure</td>
+      <td>Motorco</td>
+      <td>Weaver Street but subject to venue change</td>
+    </tr>
+    <tr>
+      <td>3/24</td>
+      <td>7:00</td>
+      <td>Mattie B’s</td>
+      <td>Freelancers United</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3/24</td>
+      <td>8:00</td>
+      <td>McCabe’s</td>
+      <td>Durham All-Stars</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Week of 3/30</td>
+      <td>6:00</td>
+      <td>Motorco</td>
+      <td>Freelancers United</td>
+      <td>Date and venue TBD (Weaver is backup)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>7:00</td>
+      <td>Mattie B’s</td>
+      <td>McCabe’s</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>8:00</td>
+      <td>Durham All Stars</td>
+      <td>Market Failure</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Week of 4/6</td>
+      <td>6:00</td>
+      <td>Freelancers United</td>
+      <td>McCabe’s</td>
+      <td>Date and venue TBD (Weaver is backup)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>7:00</td>
+      <td>Durham All Stars</td>
+      <td>Motorco</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>8:00</td>
+      <td>Market Failure</td>
+      <td>Mattie B’s</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Previous matches</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Home</th>
+      <th>Away</th>
+      <th>Result</th>
+      <th>Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for match in site.data.matches %}
+      <tr>
+        <td>{{ match.date | date: "%d/%m" }}</td>
+        <td>{{ match.date | date: "%I:%M %p" }}</td>
+        <td>{{ match.home }}</td>
+        <td>{{ match.away }}</td>
+        <td>
+            {{ match.score.home }} - {{ match.score.away }}
+        </td>
+        <td>{{ match.venue }}</td>
+      </tr>
+      {% endfor %}
+  </tbody>
+</table>
+
+<h2>Standings</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>Pts</th>
+      <th>W</th>
+      <th>L</th>
+      <th>D</th>
+      <th>GF</th>
+      <th>GA</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for team in site.data.results %}
+    <tr>
+        <td>{{ team.team }}</td>
+        <td>{{ team.points }}</td>
+        <td>{{ team.wins }}</td>
+        <td>{{ team.losses }}</td>
+        <td>{{ team.draws }}</td>
+        <td>{{ team.goals_for }}</td>
+        <td>{{ team.goals_against }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
