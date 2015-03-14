@@ -1,0 +1,71 @@
+- date: 2/3/2015 18:00
+  home: "Mattie B's"
+  away: "Bull McCabe's"
+  score:
+    home: 9
+    away: 10
+  venue: Weaver St Rec
+
+- date: 2/3/2015 19:00
+  home: Market Failure
+  away: Motorco FC
+  score:
+    home: 7
+    away: 10
+  venue: Weaver St Rec
+
+- date: 2/3/2015 20:00
+  home: Freelancers United
+  away: Durham All Stars
+  score:
+    home: 15
+    away: 7
+  venue: Weaver St Rec
+
+- date: 2/10/2015 18:00
+  home: "Bull McCabe's"
+  away: "Motorco FC"
+  score:
+    home: 2
+    away: 4
+  venue: Weaver St Rec
+
+- date: 2/10/2015 19:00
+  home: "Freelancers United"
+  away: "Market Failure"
+  score:
+    home: 15
+    away: 9
+  venue: Weaver St Rec
+
+- date: 2/10/2015 20:00
+  home: "Mattie B's"
+  away: "Durham All Stars"
+  score:
+    home: 16
+    away: 13
+  venue: Weaver St Rec
+
+- date: 3/3/2015 18:00
+  home: "Motorco FC"
+  away: "Durham All Stars"
+  score:
+    home: 12
+    away: 4
+  venue: Weaver St Rec
+
+- date: 3/3/2015 19:00
+  home: "Mattie B's"
+  away: "Market Failure"
+  score:
+    home: 12
+    away: 4
+  venue: Weaver St Rec
+
+- date: 3/3/2015 20:00
+  home: "Bull McCabe's"
+  away: "Freelancers United"
+  score:
+    home: 9
+    away: 6
+  venue: Weaver St Rec
