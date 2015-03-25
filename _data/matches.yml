@@ -117,3 +117,27 @@
     home: 4
     away: 2
   venue: Sherwood Park
+
+- date: 3/24/2015 18:00
+  home: "Market Failure"
+  away: "Motorco FC"
+  score:
+    home: 5
+    away: 17
+  venue: Lucas Middle School
+
+- date: 3/24/2015 19:00
+  home: "Mattie B's"
+  away: "Freelancers United"
+  score:
+    home: 10
+    away: 9
+  venue: Lucas Middle School
+
+- date: 3/24/2015 20:00
+  home: "Bull McCabe's"
+  away: "Durham All Stars"
+  score:
+    home: 6
+    away: 4
+  venue: Lucas Middle School
