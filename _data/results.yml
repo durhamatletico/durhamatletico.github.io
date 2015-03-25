@@ -1,9 +1,9 @@
-[{draws: 0, goal_differential: 17, goals_against: 50, goals_for: 67, losses: 1, points: 12,
-    team: Mattie B's, wins: 4}, {draws: 0, goal_differential: 12, goals_against: 30,
-    goals_for: 42, losses: 1, points: 12, team: Motorco FC, wins: 4}, {draws: 0, goal_differential: 13,
-    goals_against: 49, goals_for: 62, losses: 2, points: 9, team: Freelancers United,
-    wins: 3}, {draws: 0, goal_differential: 6, goals_against: 29, goals_for: 35, losses: 2,
-    points: 9, team: Bull McCabe's, wins: 3}, {draws: 0, goal_differential: -21, goals_against: 69,
-    goals_for: 48, losses: 4, points: 3, team: Durham All Stars, wins: 1}, {draws: 0,
-    goal_differential: -27, goals_against: 64, goals_for: 37, losses: 5, points: 0,
-    team: Market Failure, wins: 0}]
+[{draws: 0, goal_differential: 24, goals_against: 35, goals_for: 59, losses: 1, points: 15,
+    team: Motorco FC, wins: 5}, {draws: 0, goal_differential: 18, goals_against: 59,
+    goals_for: 77, losses: 1, points: 15, team: Mattie B's, wins: 5}, {draws: 0, goal_differential: 8,
+    goals_against: 33, goals_for: 41, losses: 2, points: 12, team: Bull McCabe's,
+    wins: 4}, {draws: 0, goal_differential: 12, goals_against: 59, goals_for: 71,
+    losses: 3, points: 9, team: Freelancers United, wins: 3}, {draws: 0, goal_differential: -23,
+    goals_against: 75, goals_for: 52, losses: 5, points: 3, team: Durham All Stars,
+    wins: 1}, {draws: 0, goal_differential: -39, goals_against: 81, goals_for: 42,
+    losses: 6, points: 0, team: Market Failure, wins: 0}]
