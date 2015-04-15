@@ -189,3 +189,27 @@
     home: 5
     away: 7
   venue: Lucas Middle School
+
+- date: 4/14/2015 18:00
+  home: "Durham All Stars"
+  away: "Bull McCabe's"
+  score:
+    home: 6
+    away: 10
+  venue: Lucas Middle School
+
+- date: 4/14/2015 19:00
+  home: "Motorco FC"
+  away: "Market Failure"
+  score:
+    home: 10
+    away: 8
+  venue: Lucas Middle School
+
+- date: 4/14/2015 20:00
+  home: "Freelancers United"
+  away: "Mattie B's"
+  score:
+    home: 13
+    away: 7
+  venue: Lucas Middle School
