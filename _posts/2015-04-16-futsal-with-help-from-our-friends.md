@@ -1,10 +1,11 @@
 ---
-layout: blog
-published: false
+layout: post
+title: Futsal... with a little help from our friends
+author: David Fellearth
+published: true
+summary: >
+  We’re nearing the end of our first season of adult futsal, and it’s hard to believe how far we’ve come since the day Kosta and I decided, via Gchat, to see if we could get something like this off the ground.
 ---
-
-## Futsal... with a little help from our friends
-
 We’re nearing the end of our first season of adult futsal, and it’s hard to believe how far we’ve come since the day Kosta and I decided, via Gchat, to see if we could get something like this off the ground.
 
 Now, after nine weeks of play, and two weeks missed due to snow, we’re closing in on Week 10. And an exciting finale it will be, with no fewer than [four teams in contention for the title](/futsal/schedule). And yes, there will be a trophy!
