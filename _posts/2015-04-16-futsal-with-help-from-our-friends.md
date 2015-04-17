@@ -16,14 +16,6 @@ We began Durham Atletico with a twofold mission: to create new opportunities to 
 
 We purchased the goals, valued at $2,550, and installed them at Campus Hills last month. In June, we will formally donate them to Durham Parks and Rec. A couple of weeks ago, Bonitta Best of the Durham News [wrote a nice column about us, and this effort](http://www.newsobserver.com/news/local/community/durham-news/dn-sports/article17861792.html).
 
-![Boxes](/assets/img/boxes.jpg)
-
-![Assembly](/assets/img/assembly.jpg)
-
-![Goal!](/assets/img/goal.jpg)
-
-![First soccer game on Campus Hills field](/assets/img/first-game.jpg)
-
 Tammy Brown and Brandon Reed of Durham Parks and Rec were vitally helpful in securing us a place to play, at the height of basketball season. Without the space at Weaver Street Recreation Center, we would not have gotten started. 
 
 We’ve subsequently moved on to larger spaces--for Lucas Middle School, we have to thank Tom Johnson and John Dietz of NJAA, and Michelle Brossette of Durham Public Schools. For Sherwood Park, Cathy Baldwin of DPR (with a special shoutout for letting us play before the re-paving of the parking lot was completely finished). 
@@ -31,5 +23,12 @@ We’ve subsequently moved on to larger spaces--for Lucas Middle School, we have
 A special debt of gratitude is owed to John Dietz for hauling the goals around in his truck these last few weeks as we’ve wandered between Lucas and Sherwood.
 
 We’ve got some exciting announcements coming up, including news about our summer league, which we’ll post soon. 
-
 Until then, see you on the pitch.
+
+![Boxes](/assets/img/boxes.jpg)
+
+![Assembly](/assets/img/assembly.jpg)
+
+![Goal!](/assets/img/goal.jpg)
+
+![First soccer game on Campus Hills field](/assets/img/first-game.jpg)
