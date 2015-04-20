@@ -12,7 +12,7 @@ The final night is going to be a lot of fun: No fewer than three teams are in a 
 
 We’re very pleased to announce, too, that we will have a parting gift to the players who showed such faith in our ability to organize this league. Here’s a hint—if you wear S, XL or XXL, we only have a few, so make your reservations now.
 
-It’s forecast to be a lovely evening on Tuesday, so bring your friends, partners and dogs to the games. Afterward, repair to GarageBar, where festivities will start at 9:15 PM or so. The last game of the season is at 8pm. We’ll head to the bar straight afterward, where we’ll make a few announcements, hand out Best V and Second-best V awards, and present the winning team with the championship trophy.
+It’s forecast to be a lovely evening on Tuesday, so bring your friends, partners and dogs to the games. Afterward, repair to GarageBar, where festivities will start at 9:15 PM or so ([RSVP here](https://www.facebook.com/events/570650769742920/) or send us an email). The last game of the season is at 8pm. We’ll head to the bar straight afterward, where we’ll make a few announcements, hand out Best V and Second-best V awards, and present the winning team with the championship trophy.
 
 We know it’s a school night, and some of you have long trips home to Raleigh or Chapel Hill, so we will get all this done by 9:45. Maybe even 9:30! In the meantime, be sure to tip your bartender.
 
