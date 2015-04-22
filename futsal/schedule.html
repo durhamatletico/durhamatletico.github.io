@@ -3,41 +3,33 @@ layout: page
 title: Futsal Winter 2015 Schedule and Standings
 permalink: /futsal/schedule/
 ---
-<p><em>Note, matches at Lucas Middle School are at 923 Snow Hill Road. Use second entrance off Snow Hill. It's about a 20 minute drive from central Durham.</em></p>
-
-<h2>Upcoming matches</h2>
+<h2>Standings</h2>
 <table>
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Time</th>
-      <th>Home</th>
-      <th>Away</th>
-      <th>Venue</th>
+      <th>Team</th>
+      <th>Pts</th>
+      <th>W</th>
+      <th>L</th>
+      <th>D</th>
+      <th>GF</th>
+      <th>GA</th>
+      <th>GD</th>
     </tr>
   </thead>
   <tbody>
+      {% for team in site.data.results %}
     <tr>
-      <td>4/21</td>
-      <td>6:00</td>
-      <td>Bull McCabe's</td>
-      <td>Mattie B's</td>
-      <td>Sherwood Park (Lucas Middle School as rain backup)</td>
+        <td>{{ team.team }}</td>
+        <td>{{ team.points }}</td>
+        <td>{{ team.wins }}</td>
+        <td>{{ team.losses }}</td>
+        <td>{{ team.draws }}</td>
+        <td>{{ team.goals_for }}</td>
+        <td>{{ team.goals_against }}</td>
+        <td>{{ team.goal_differential }}</td>
     </tr>
-    <tr>
-      <td>4/21</td>
-      <td>7:00</td>
-      <td>Freelancers United</td>
-      <td>Motorco FC</td>
-      <td>Sherwood Park (Lucas Middle School as rain backup)</td>
-    </tr>
-    <tr>
-      <td>4/21</td>
-      <td>8:00</td>
-      <td>Market Failure</td>
-      <td>Durham All Stars</td>
-      <td>Sherwood Park (Lucas Middle School as rain backup) </td>
-    </tr>
+    {% endfor %}
   </tbody>
 </table>
 
@@ -66,35 +58,5 @@ permalink: /futsal/schedule/
         <td>{{ match.venue }}</td>
       </tr>
       {% endfor %}
-  </tbody>
-</table>
-
-<h2>Standings</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Team</th>
-      <th>Pts</th>
-      <th>W</th>
-      <th>L</th>
-      <th>D</th>
-      <th>GF</th>
-      <th>GA</th>
-      <th>GD</th>
-    </tr>
-  </thead>
-  <tbody>
-      {% for team in site.data.results %}
-    <tr>
-        <td>{{ team.team }}</td>
-        <td>{{ team.points }}</td>
-        <td>{{ team.wins }}</td>
-        <td>{{ team.losses }}</td>
-        <td>{{ team.draws }}</td>
-        <td>{{ team.goals_for }}</td>
-        <td>{{ team.goals_against }}</td>
-        <td>{{ team.goal_differential }}</td>
-    </tr>
-    {% endfor %}
   </tbody>
 </table>
