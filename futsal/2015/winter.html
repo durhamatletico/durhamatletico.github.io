@@ -18,7 +18,7 @@ permalink: /futsal/2015/winter/
     </tr>
   </thead>
   <tbody>
-      {% for team in site.data.results %}
+      {% for team in site.data.2015.winter.results %}
     <tr>
         <td>{{ team.team }}</td>
         <td>{{ team.points }}</td>
@@ -46,7 +46,7 @@ permalink: /futsal/2015/winter/
     </tr>
   </thead>
   <tbody>
-      {% for match in site.data.matches %}
+      {% for match in site.data.2015.winter.matches %}
       <tr>
         <td>{{ match.date | date: "%d/%m" }}</td>
         <td>{{ match.date | date: "%I:%M %p" }}</td>
