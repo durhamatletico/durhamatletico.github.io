@@ -201,7 +201,7 @@ ul {
   $hero-background-bottom: #20392B;
   $hero-color: white;
   $gradient-angle: 10deg;
-  $hero-image: '/assets/img/soccer.png';
+  $hero-image: '/assets/img/blog-last-game.jpg';
 
   @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
   background-color: #324766;
@@ -225,6 +225,8 @@ ul {
 
     .hero-copy {
       text-align: center;
+      background-color: rgba(0,0,0,0.7);
+      padding: 0.5em;
 
       h1 {
         font-size: 1.6em;
