@@ -1,7 +1,7 @@
 ---
 title: Team Registration
 layout: page
-permalink: /futsal/thank-you/
+permalink: /futsal/team-registration/
 ---
 
 **Team captains only**: Use the "Pay Now" button below to sign up your team for the summer futsal league.
