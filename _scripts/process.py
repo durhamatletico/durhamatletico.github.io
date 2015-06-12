@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 import yaml
+import json
 
-teams = yaml.load(open("_data/teams.yml", 'r'))
-matches = yaml.load(open("_data/matches.yml", 'r'))
+teams = yaml.load(open("_data/2015/summer/teams.yml", 'r'))
+matches = json.load(open("_data/2015/summer/matches.json", 'r'))
 team_data = dict()
 
 for team in teams:
@@ -10,24 +11,24 @@ for team in teams:
     # 1. Create points tally per team.
     # 2. Track goals for / goals against
     for match in matches:
-        if team in match['home']:
-            team_data[team]['goals_for'] += match['score']['home']
-            team_data[team]['goals_against'] += match['score']['away']
-            if match['score']['home'] > match['score']['away']:
+        if team in match['Team 1'] and match['Team 1 score']:
+            team_data[team]['goals_for'] += int(match['Team 1 score'])
+            team_data[team]['goals_against'] += int(match['Team 2 score'])
+            if match['Team 1 score'] > match['Team 2 score']:
                 team_data[team]['points'] += 3
                 team_data[team]['wins'] += 1
-            elif match['score']['home'] == match['score']['away']:
+            elif match['Team 1 score'] == match['Team 2 score']:
                 team_data[team]['draws'] += 1
                 team_data[team]['points'] += 1
             else:
                 team_data[team]['losses'] +=1
-        elif team in match['away']:
-            team_data[team]['goals_for'] += match['score']['away']
-            team_data[team]['goals_against'] += match['score']['home']
-            if match['score']['away'] > match['score']['home']:
+        elif team in match['Team 2']:
+            team_data[team]['goals_for'] += int(match['Team 2 score'])
+            team_data[team]['goals_against'] += int(match['Team 1 score'])
+            if match['Team 2 score'] > match['Team 1 score']:
                 team_data[team]['points'] += 3
                 team_data[team]['wins'] += 1
-            elif match['score']['away'] == match['score']['home']:
+            elif match['Team 2 score'] == match['Team 1 score']:
                 team_data[team]['points'] += 1
                 team_data[team]['draws'] += 1
             else:
