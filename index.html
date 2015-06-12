@@ -17,6 +17,34 @@ layout: default
     </section>
 
     <section>
+      <schedule class="this-week">
+        <h2>Matches for June 15-16</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Time</th>
+              <th>Home</th>
+              <th>Away</th>
+              <th>Venue</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for match in site.data.2015.summer.week %}
+            <tr>
+              <td>{{ match.Date | date: '%d' }}</td>
+              <td>{{ match.Time }}</td>
+              <td>{{ match["Team 1"] }}</td>
+              <td>{{ match["Team 2"] }}</td>
+              <td>{{ match["Default venue"] }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+</table>
+
+      </schedule>
+    </section>
+    <section>
         <latest class="intro-text">
             {% for post in site.posts limit:1 %}
                 <h3>{{ post.date | date: "%b %-d, %Y" }}</h3>

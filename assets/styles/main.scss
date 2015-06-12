@@ -187,6 +187,10 @@ ul {
     section {
         latest { @include span-columns(12); }
         hero { @include span-columns(12); }
+        schedule {
+            padding-top: 4%;
+            @include span-columns(12);
+        }
     }
 }
 
