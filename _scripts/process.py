@@ -11,13 +11,13 @@ for team in teams:
     # 1. Create points tally per team.
     # 2. Track goals for / goals against
     for match in matches:
-        if team in match['Team 1'] and match['Team 1 score']:
+        if team in match['Team 1']:
             team_data[team]['goals_for'] += int(match['Team 1 score'])
             team_data[team]['goals_against'] += int(match['Team 2 score'])
-            if match['Team 1 score'] > match['Team 2 score']:
+            if int(match['Team 1 score']) > int(match['Team 2 score']):
                 team_data[team]['points'] += 3
                 team_data[team]['wins'] += 1
-            elif match['Team 1 score'] == match['Team 2 score']:
+            elif int(match['Team 1 score']) == int(match['Team 2 score']):
                 team_data[team]['draws'] += 1
                 team_data[team]['points'] += 1
             else:
@@ -25,15 +25,16 @@ for team in teams:
         elif team in match['Team 2']:
             team_data[team]['goals_for'] += int(match['Team 2 score'])
             team_data[team]['goals_against'] += int(match['Team 1 score'])
-            if match['Team 2 score'] > match['Team 1 score']:
+            if int(match['Team 2 score']) > int(match['Team 1 score']):
                 team_data[team]['points'] += 3
                 team_data[team]['wins'] += 1
-            elif match['Team 2 score'] == match['Team 1 score']:
+            elif int(match['Team 2 score']) == int(match['Team 1 score']):
                 team_data[team]['points'] += 1
                 team_data[team]['draws'] += 1
             else:
                 team_data[team]['losses'] += 1
 
+pprint.pprint(team_data)                
 # Calculate goal differential
 for team in teams:
     team_data[team]['goal_differential'] = team_data[team]['goals_for'] - team_data[team]['goals_against']
@@ -49,5 +50,5 @@ sorted_data = sorted(unsorted_data, key=itemgetter('points', 'goal_differential'
 
 # Output new YAML document for processing by Jekyll
 output = yaml.dump(sorted_data)
-with open('_data/results.yml', 'w') as outfile:
+with open('_data/2015/summer/results.yml', 'w') as outfile:
     outfile.write(yaml.dump(sorted_data, default_flow_style=True) )
