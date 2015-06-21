@@ -34,7 +34,6 @@ for team in teams:
             else:
                 team_data[team]['losses'] += 1
 
-pprint.pprint(team_data)                
 # Calculate goal differential
 for team in teams:
     team_data[team]['goal_differential'] = team_data[team]['goals_for'] - team_data[team]['goals_against']
