@@ -11,6 +11,8 @@ for team in teams:
     # 1. Create points tally per team.
     # 2. Track goals for / goals against
     for match in matches:
+        if match['Team 1 score'] == 'Postponed' or match['Team 2 score'] == 'Postponed':
+                continue
         if team in match['Team 1']:
             team_data[team]['goals_for'] += int(match['Team 1 score'])
             team_data[team]['goals_against'] += int(match['Team 2 score'])

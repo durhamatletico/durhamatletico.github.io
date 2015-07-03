@@ -18,7 +18,7 @@ layout: default
 
     <section>
       <schedule class="this-week">
-        <h2>Matches for June 29-30</h2>
+        <h2>Matches for July 6-7</h2>
         <p>Help your captains! <a href="https://docs.google.com/forms/d/1wwjexASA_wtMgit6BnDdHOGyP1nAHIWMxkejpUmdiDs/viewform">RSVP to your game each week with this form.</a></p>
         <table>
           <thead>
@@ -33,7 +33,7 @@ layout: default
           <tbody>
             {% for match in site.data.2015.summer.week %}
             <tr>
-              <td>{{ match.Date | date: '%d' }}</td>
+              <td>{{ match.Date }}</td>
               <td>{{ match.Time }}</td>
               <td>{{ match["Team 1"] }}</td>
               <td>{{ match["Team 2"] }}</td>
