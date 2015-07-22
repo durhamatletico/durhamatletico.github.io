@@ -1,51 +1,41 @@
 [
-{"Date":"7/20/2015","Time":"7:00 PM","Team 1":"Immaculata","Team 2":"Hot Pants","Default venue":"Githens Middle School","Team 1 score":"","Team 2 score":""}
+{"Date":"7/27/2015","Time":"7:00 PM","Team 1":"Hustle and Flow","Team 2":"Motorco","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/20/2015","Time":"8:00 PM","Team 1":"Hustle and Flow","Team 2":"Green Street Elite","Default venue":"Githens Middle School","Team 1 score":"","Team 2 score":""}
+{"Date":"7/27/2015","Time":"8:00 PM","Team 1":"Green Street Elite","Team 2":"Hot Pants","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/21/2015","Time":"6:00 PM","Team 1":"All Stars","Team 2":"El Centro","Default venue":"Githens Middle School","Team 1 score":"","Team 2 score":""}
+{"Date":"7/28/2015","Time":"6:00 PM","Team 1":"Muchos Nachos","Team 2":"All Stars","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/21/2015","Time":"7:00 PM","Team 1":"Muchos Nachos","Team 2":"Motorco","Default venue":"Githens Middle School","Team 1 score":"","Team 2 score":""}
+{"Date":"7/28/2015","Time":"7:00 PM","Team 1":"PLQS","Team 2":"Immaculata","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/21/2015","Time":"8:00 PM","Team 1":"PLQS","Team 2":"DCFC","Default venue":"Githens Middle School","Team 1 score":"","Team 2 score":""}
+{"Date":"7/28/2015","Time":"8:00 PM","Team 1":"El Centro","Team 2":"DCFC","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/27/2015","Time":"7:00 PM","Team 1":"Hustle and Flow","Team 2":"Motorco","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/3/2015","Time":"7:00 PM","Team 1":"Green Street Elite","Team 2":"All Stars","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/27/2015","Time":"8:00 PM","Team 1":"Green Street Elite","Team 2":"Hot Pants","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/3/2015","Time":"8:00 PM","Team 1":"Hustle and Flow","Team 2":"Immaculata","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/28/2015","Time":"6:00 PM","Team 1":"Muchos Nachos","Team 2":"All Stars","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/4/2015","Time":"6:00 PM","Team 1":"Hot Pants","Team 2":"PLQS","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/28/2015","Time":"7:00 PM","Team 1":"PLQS","Team 2":"Immaculata","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/4/2015","Time":"7:00 PM","Team 1":"Muchos Nachos","Team 2":"El Centro","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"7/28/2015","Time":"8:00 PM","Team 1":"El Centro","Team 2":"DCFC","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/4/2015","Time":"8:00 PM","Team 1":"DCFC","Team 2":"Motorco","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/3/2015","Time":"7:00 PM","Team 1":"Green Street Elite","Team 2":"All Stars","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/10/2015","Time":"7:00 PM","Team 1":"El Centro","Team 2":"Hot Pants","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/3/2015","Time":"8:00 PM","Team 1":"Hustle and Flow","Team 2":"Immaculata","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/10/2015","Time":"8:00 PM","Team 1":"All Stars","Team 2":"Motorco","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/4/2015","Time":"6:00 PM","Team 1":"Hot Pants","Team 2":"PLQS","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/11/2015","Time":"6:00 PM","Team 1":"Green Street Elite","Team 2":"Immaculata","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/4/2015","Time":"7:00 PM","Team 1":"Muchos Nachos","Team 2":"El Centro","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/11/2015","Time":"7:00 PM","Team 1":"Hustle and Flow","Team 2":"PLQS","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/4/2015","Time":"8:00 PM","Team 1":"DCFC","Team 2":"Motorco","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/11/2015","Time":"8:00 PM","Team 1":"DCFC","Team 2":"Muchos Nachos","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/10/2015","Time":"7:00 PM","Team 1":"El Centro","Team 2":"Hot Pants","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/17/2015","Time":"7:00 PM","Team 1":"No. 7","Team 2":"No. 8","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/10/2015","Time":"8:00 PM","Team 1":"All Stars","Team 2":"Motorco","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/17/2015","Time":"8:00 PM","Team 1":"No. 5","Team 2":"No. 6","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/11/2015","Time":"6:00 PM","Team 1":"Green Street Elite","Team 2":"Immaculata","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/18/2015","Time":"6:00 PM","Team 1":"No. 9","Team 2":"No. 10","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/11/2015","Time":"7:00 PM","Team 1":"Hustle and Flow","Team 2":"PLQS","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/18/2015","Time":"7:00 PM","Team 1":"No. 3","Team 2":"No. 4","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ,
-{"Date":"8/11/2015","Time":"8:00 PM","Team 1":"DCFC","Team 2":"Muchos Nachos","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
-,
-{"Date":"8/17/2015","Time":"7:00 PM","Team 1":"No. 7","Team 2":"No. 8","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
-,
-{"Date":"8/17/2015","Time":"8:00 PM","Team 1":"No. 5","Team 2":"No. 6","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
-,
-{"Date":"8/18/2015","Time":"6:00 PM","Team 1":"No. 9","Team 2":"No. 10","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
-,
-{"Date":"8/18/2015","Time":"7:00 PM","Team 1":"No. 3","Team 2":"No. 4","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
-,
-{"Date":"8/18/2015","Time":"8:00 PM","Team 1":"No. 1","Team 2":"No. 2","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":""}
+{"Date":"8/18/2015","Time":"8:00 PM","Team 1":"No. 1","Team 2":"No. 2","Default venue":"Sherwood Park","Team 1 score":"","Team 2 score":"","":""}
 ]
