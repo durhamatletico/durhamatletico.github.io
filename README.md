@@ -16,9 +16,9 @@ Check if `which csv2json` and `which csvgrep` both work.
 
 ### Update the build script
 
-Yes, the build script is a little hacky. Sorry. You'll need to edit the `_scripts/build.sh` file.
+Yes, the build script is a little hacky. Sorry. You'll need to edit the `_scripts/build.sh` file to alter how the schedule gets parsed for output onto the website. The tl;dr is that we're adding the match dates for the upcoming week to the first line, and then adding last week's match dates to all the remaining lines. See below for example.
 
-Edit all the lines that start with `cat`. This example is for the week of games on `8/3/2015|8/4/2015`
+Edit all the lines that start with `cat`. This example is for the week of games on `8/3/2015|8/4/2015`.
 
 1. `cat /tmp/futsal.csv | csvgrep -c 1 -r "7/27/2015|7/28/2015" | csv2json > _data/2015/summer/week.json` becomes `cat /tmp/futsal.csv | csvgrep -c 1 -r "8/3/2015|8/4/2015" | csv2json > _data/2015/summer/week.json`
 2. `cat /tmp/futsal.csv | csvgrep -i -c 1 -r "6/15/2015|6/16/2015|6/22/2015|6/23/2015|6/29/2015|6/30/2015|7/6/2015|7/7/2015|7/9/2015|7/13/2015|7/14/2015|7/20/2015|7/21/2015" | csv2json > _data/2015/summer/schedule.json` becomes `cat /tmp/futsal.csv | csvgrep -i -c 1 -r "6/15/2015|6/16/2015|6/22/2015|6/23/2015|6/29/2015|6/30/2015|7/6/2015|7/7/2015|7/9/2015|7/13/2015|7/14/2015|7/20/2015|7/21/2015|7/27/2015|7/28/2015" | csv2json > _data/2015/summer/schedule.json`
@@ -29,7 +29,7 @@ Update the `index.html` file and change the H2 to reference the upcoming dates. 
 
 ### Download the CSV
 
-Go to https://docs.google.com/spreadsheets/d/1VnXQQHZ7ZBemXg2ab5EZ9ZYYf_NhJwxwSk8pkQhpbvQ/edit#gid=1967459852 and click File > Download as > CSV. Save that CSV to `/tmp/futsal.csv`.
+Go to [the futsal schedule google sheet](https://docs.google.com/spreadsheets/d/1VnXQQHZ7ZBemXg2ab5EZ9ZYYf_NhJwxwSk8pkQhpbvQ/edit#gid=1967459852) and click `File > Download as > CSV`. Save that CSV to `/tmp/futsal.csv`.
 
 ### Run the build script
 
