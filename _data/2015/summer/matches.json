@@ -25,8 +25,6 @@
 ,
 {"Date":"6/30/2015","Time":"6:00 PM","Team 1":"Motorco","Team 2":"Hot Pants","Default venue":"Sherwood Park","Team 1 score":"6","Team 2 score":"1","":""}
 ,
-{"Date":"6/30/2015","Time":"7:00 PM","Team 1":"DCFC","Team 2":"Green Street Elite","Default venue":"Sherwood Park","Team 1 score":"Postponed","Team 2 score":"Postponed","":""}
-,
 {"Date":"7/9/2015","Time":"7:00 PM","Team 1":"Muchos Nachos","Team 2":"Hustle and Flow","Default venue":"Sherwood Park","Team 1 score":"6","Team 2 score":"3","":""}
 ,
 {"Date":"7/6/2015","Time":"7:00 PM","Team 1":"All Stars","Team 2":"Hustle and Flow","Default venue":"Githens Middle School","Team 1 score":"12","Team 2 score":"8","":""}
@@ -58,4 +56,12 @@
 {"Date":"7/21/2015","Time":"7:00 PM","Team 1":"Muchos Nachos","Team 2":"Motorco","Default venue":"Githens Middle School","Team 1 score":"5","Team 2 score":"13","":""}
 ,
 {"Date":"7/21/2015","Time":"8:00 PM","Team 1":"PLQS","Team 2":"DCFC","Default venue":"Githens Middle School","Team 1 score":"7","Team 2 score":"8","":""}
+,
+{"Date":"7/27/2015","Time":"8:00 PM","Team 1":"Green Street Elite","Team 2":"Hot Pants","Default venue":"Githens Middle School","Team 1 score":"5","Team 2 score":"3","":""}
+,
+{"Date":"7/28/2015","Time":"6:00 PM","Team 1":"Muchos Nachos","Team 2":"All Stars","Default venue":"Githens Middle School","Team 1 score":"9","Team 2 score":"10","":""}
+,
+{"Date":"7/28/2015","Time":"7:00 PM","Team 1":"PLQS","Team 2":"Immaculata","Default venue":"Githens Middle School","Team 1 score":"11","Team 2 score":"9","":""}
+,
+{"Date":"7/28/2015","Time":"8:00 PM","Team 1":"El Centro","Team 2":"DCFC","Default venue":"Githens Middle School","Team 1 score":"6","Team 2 score":"12","":""}
 ]
