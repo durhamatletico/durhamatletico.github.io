@@ -1,0 +1,112 @@
+---
+layout: post
+title: About Sherwood Park
+date: 2015-09-04 21:05
+summary: >
+  This fall, Durham Parks and Recreation will install a new surface at Sherwood Park. This is a very welcome development, although we had nothing to do with it. It was in the works long before we started playing there.
+author: David Fellerath
+---
+This fall, Durham Parks and Recreation will install a new surface at Sherwood Park. This is a very welcome development, although we had nothing to do with it. It was in the works long before we started playing there.
+
+However, DPR was kind enough to listen to our recommendations about how the space might be redesigned. For this we thank Tammy Brown and Beth Timson. Beth just retired at the end of August. She'll be sorely missed, but good luck to her!
+
+What follows is a memo that we sent to DPR in July, laying out our recommendations for re-configuring the space at Sherwood Park. In a subsequent email, Beth indicated that DPR will, in fact, follow our recommendation to mark two futsal playing spaces. The surface itself will be asphalt with a latex paint. For a similar treatment, Durhamites can visit Whippoorwill Park and look at the (very nice) newly finished tennis courts.
+
+Here's the memo:
+
+> July 23, 2015
+>
+> To: Beth Timson, Tammy Brown
+>
+> Subject: Recommendations for reconfiguring the futsal court at Sherwood Park
+>
+> Who We Are: We are a community soccer association, provisionally (but not necessarily permanently) a for-profit LLC. Our primary program is an adult futsal league. When weather permits, we play our games at Sherwood Park’s outdoor futsal court.
+> 
+> We began play in January 2015, and we’re currently in the middle of our second 10-week season. Over two seasons, we have had approximately 125 adult players, both male and female. This summer, we have seen a sharp increase in the number of Latino players in our league.
+>
+> Durham Atlético expects to continue growing. We began as a six-team league, and this summer we are at 10 teams. Our goal for this winter is to operate a 12-team league divided into two divisions.
+> 
+> Summary: After consulting with many of our players, we have the following recommendations for reconfiguring the court markings for futsal.
+> 
+> Right now, the surface is marked for a single futsal game taking place on a large court. We recommend reconfiguring the markings so that two smaller pitches are marked in the fenced-in area. These new pitches would be perpendicular to the playing area that is currently marked.
+> AND
+> 
+> We recommend retaining the current markings for a large court, which would intersect with the markings for the smaller courts. The large court would be distinguished from the two smaller courts by utilizing a contrasting color.
+> 
+> This change would permit two games to be played simultaneously on pitches that are of an acceptable size, while also retaining the option, for players who desire it, of playing on a larger marked surface.
+> 
+> Analysis:
+> 
+> The playing surface is currently marked as a pitch approximately 42 meters long and 25 meters wide. These are the maximum dimensions set forth by FIFA, the international governing body for soccer. *
+> The FIFA minimum dimensions for futsal are 25 meters long and 16 meters wide.
+> The futsal surface at Sherwood Park, including the entire fenced-in area, is large enough to fit two smaller pitches situated perpendicular to the present configuration.
+> The two smaller pitches could be approximately 30 meters long and 20 meters wide, which would fall in the middle of FIFA’s guidelines.
+> With this change, there still would be ample room for spectators and substitute players to stand on the periphery of the playing area.
+> 
+> * See page 7 here: http://www.fifa.com/mm/document/affederation/generic/51/44/50/futsallawsofthegameen.pdf
+> 
+> Benefits of making this change
+> 
+> It would allow us to play twice as many games in a night. This is important for a couple of reasons:
+> It allows us to schedule more games on fewer days of the week. Many of our players participate in other regularly scheduled activities and would like to have a single night of the week dedicated to futsal.
+> By doubling the number of players on the court at any given time, it would allow more social interaction.
+> Many of our players would prefer to play on a smaller court, which prioritizes quick passing and less running.
+> But by retaining the larger court, we could accommodate a smaller but significant group of players who prefer these dimensions. Furthermore, a full 42-meter court could be utilized for competitions among elite players.
+> 
+> Possible downsides
+> 
+> The intersecting markings could prove to be confusing, particularly if not designed with care.
+> It’s possible that there are other users of the park who would dislike the change, but in our experience, the surface is otherwise used very casually by pickup soccer players or by people just kicking the ball around or riding their bikes.
+> 
+> Other recommendations for Sherwood Park
+> 
+> Several players have asked that DPR find a surface material that is less abrasive. There are frequent falls during play, and players have been scraped up to a considerable degree.
+> On the subject of the surface: As you know, the current surface is in extremely poor condition, with “wrinkles” in addition to cracks, cuts and holes.
+> How old is this surface?
+> Did it perform to expectations?
+> Was it installed properly?
+> These would be good things to consider in planning the resurfacing, and in selecting a product and a contractor.
+> We would like to investigate the possibility of erecting a small storage shed on the premises that would contain our goals and balls. This would simplify our logistics considerably. We could construct the shed at our own expense.
+> 
+> CONCLUSION
+> 
+> We are thrilled that the Parks and Recreation Department of Durham is replacing the surface of Sherwood Park. The existence of a futsal court in Durham was unknown to almost all of us, but now that we know about Sherwood Park, we’re keenly invested in the upcoming resurfacing.
+> 
+> We respectfully ask that DPR consider our recommendations. We would be grateful, too, if we were consulted as DPR moves forward with this process.
+> 
+> If you would like to discuss these issues further, please contact us at info@durhamatletico.com, or call David Fellerath at 919-260-0245.
+> 
+> Please read on for comments that our players have made.
+> 
+> 
+> PLAYER COMMENTS
+> 
+> “personally I think 2 side by side would be awesome and better for the league moving forward” --Josh
+> 
+> “I think two pitches would be the best thing! By far! I have to complain, though, about the current floor.  As a keeper it can cause a lot of injuries (it is like sand paper!).  If you guys think that a different kind of floor would be possible, that would be awesome.” --Pablo
+> 
+> “I support the doing it both ways idea. I think it would be cool to play championship matches on the big court. If however we are limited to one or the other 2 courts are better than 1.” --Finn
+> 
+> “I prefer the bigger / maximum surface size, but that's probably just because my foot skills aren't as good and I'm more able to take advantage of spreading out players, opening up the field, making long passes, etc. I think having lines painted for both the large court and smaller side by side courts, while a really cool idea, will make it feel less authentic and be a bit more confusing.” --Tyler
+> 
+> “Two pitches sounds great and [2 in 1] compromise the best.” --David B.
+> 
+> “Just my two cents: I'm horribly out of shape, and I prefer the longer field. It allows for more fluid ball movement, better positioning, and overall better flow. Honestly, I've always felt more winded playing the shorter field, which makes for a lot of back and forth, quick movement. I like the longer pitch.” --Eladio
+> 
+> “I always believe that multi purpose courts should have plenty of options. If they are willing to mark it both ways I believe that is the best option. I play on other turf fields that are marked for Lacrosse, Field Hockey, and Soccer and once you get going it’s never an issue. Also with less room around the courts the ball won’t be rolling as far which will actually speed up the play. This is probably the best solution for the community.” --Dane
+> 
+> “I vote for the two courts side by side. I know I have trouble playing a full game on the big court, and I feel it completely changes the dynamic of the game.And being able to play two games side by side would allow for greater scheduling flexibility. On another note, please please please ask for a softer surface. The one there now is really problematic and I come home scraped up every time I play there…” --Alex
+> 
+> “I happen to agree with Eladio.  I really prefer the larger court and feel that it provides for better play.  The idea of lining three courts in different colors is also nice.” --Kait
+> 
+> “Personally, I prefer two smaller courts. The existing one is too big, and 30mts seems long enough (If we still have enough space behind the goals). What I would ask for is to have a "real/permanent" (metal or wood) goals in the court/courts. That would be great.” --Alfonso
+> 
+> “I think 2 smaller fields would be much better. That way it is the regulated size for Futsal and we can play two games at once.” --Oscar
+> 
+> “My preference is the bigger option for the following reasons:
+> 
+> 1.      More space for passing and moving to open space
+> 2.      More running which will get us in shape or keep us in shape (if us old guys aren’t complaining about fitness, whoever is complaining might benefit from running more ;-)
+> 3.      Two games going on side-by-side might be a little chaotic, confusing
+> 
+> However, if the majority wants two courts, I’m fine with that too, I’m just happy for the opportunity to play.” --Alan
